@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erryza&label=Profile%20views&color=0e75b6&style=flat" alt="erryza" /> </p>
 
-- 🌱 I’m currently learning **Cypress, Katalon and Selenium**
+- 🌱 I’m currently learning **Selenium, Katalon, Cypress and Appium**
 
 - 📫 How to reach me **erryzanuralif9@gmail.com**
 
