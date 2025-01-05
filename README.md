@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erryza Nur Alif</h1>
-<h3 align="center">Quality Assurance Engineer from Indonesia</h3>
+<h3 align="center">Quality Assurance from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erryza&label=Profile%20views&color=0e75b6&style=flat" alt="erryza" /> </p>
 
